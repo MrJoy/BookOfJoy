@@ -17,3 +17,5 @@ A set of rules I use to build systems.
 1. Don't Fight the Tools
 1. Don't be Clever
 1. WET, then DRY
+1. Maximize Your Total Laziness
+1. YAGNI
