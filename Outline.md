@@ -29,3 +29,5 @@ A set of rules I use to build systems.
 1. Avoid Forking Dependencies
 1. Prioritize Getting Modifications Merged Upstream
 1. Exceptions to Rules are Sometimes Appropriate, but Never Without Approval
+1. Security is Everyone's Responsibility
+1. Make Illegal States Unrepresentable
