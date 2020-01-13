@@ -1,6 +1,6 @@
 # The Book of Jon
 
-This document enumerates the principles and rules that I have come to adhere to when building new systems, particularly at smaller engineering organizations.
+This document enumerates the principles and rules that I have come to adhere to (or at least aspire to) when building new systems, particularly at smaller engineering organizations.
 
 1. Kindness Matters
 1. Be Flexible
