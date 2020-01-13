@@ -3,6 +3,7 @@
 This document enumerates the principles and rules that I have come to adhere to when building new systems, particularly at smaller engineering organizations.
 
 1. Kindness Matters
+1. Be Flexible
 1. Make Things Idempotent
 1. Follow The [Twelve-Factor App](https://12factor.net) Model
 1. Automate Everything
