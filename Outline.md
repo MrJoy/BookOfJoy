@@ -1,4 +1,4 @@
-# The Book of Jon
+# The Book of Joy
 
 This document enumerates the principles and rules that I have come to adhere to (or at least aspire to) when building new systems, particularly at smaller engineering organizations.
 
