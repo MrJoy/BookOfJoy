@@ -13,6 +13,7 @@ A set of rules I use to build systems.
 1. Make Data Pipelines Debuggable, and Replayable
 1. Eliminate Toil
 1. Reduce Friction in Workflows
+1. Read Data Warehouse Toolkit
 1. Use OLAP
 1. Emphasize Workflow Over Performance
 1. Don't Fight the Tools
