@@ -35,3 +35,5 @@ This document enumerates the principles and rules that I have come to adhere to 
 1. Make Illegal States Unrepresentable
 1. Keep Dependencies Up To Date
 1. Don't Update to a Major Release Until A Point Release or Two
+1. Avoid Neophilia
+1. Don't Use Tools to Solve Problems They Weren't Designed to Solve
