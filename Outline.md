@@ -2,6 +2,7 @@
 
 This document enumerates the principles and rules that I have come to adhere to when building new systems, particularly at smaller engineering organizations.
 
+1. Kindness Matters
 1. Make Things Idempotent
 1. Follow The [Twelve-Factor App](https://12factor.net) Model
 1. Automate Everything
@@ -30,6 +31,7 @@ This document enumerates the principles and rules that I have come to adhere to 
 1. Prioritize Getting Modifications Merged Upstream
 1. Make Exceptions to Rules, but Only With Approval
 1. Security is Everyone's Responsibility
+1. Play the Potato Game
 1. Make Illegal States Unrepresentable
 1. Keep Dependencies Up To Date
 1. Don't Update to a Major Release Until A Point Release or Two
