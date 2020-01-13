@@ -13,7 +13,7 @@ This document enumerates the principles and rules that I have come to adhere to 
 1. Make Code and Workflow Composable
 1. Make Data Pipelines Debuggable, and Replayable
 1. Eliminate Toil
-1. Reduce Friction in Workflows
+1. Friction Adds Up Faster Than You Think
 1. Read Data Warehouse Toolkit
 1. Use OLAP
 1. Don't Ignore Performance
