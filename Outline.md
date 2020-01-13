@@ -1,6 +1,6 @@
 # The Book of Jon
 
-A set of rules I use to build systems.
+This document enumerates the principles and rules that I have come to adhere to when building new systems, particularly at smaller engineering organizations.
 
 1. Make Things Idempotent
 1. Follow The [Twelve-Factor App](https://12factor.net) Model
@@ -31,3 +31,5 @@ A set of rules I use to build systems.
 1. Exceptions to Rules are Sometimes Appropriate, but Never Without Approval
 1. Security is Everyone's Responsibility
 1. Make Illegal States Unrepresentable
+1. Keep Dependencies Up To Date
+1. Don't Update to a Major Release Until A Point Release or Two
