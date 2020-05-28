@@ -30,6 +30,7 @@ This document enumerates the principles and rules that I have come to adhere to 
 1. Use OLAP
 1. Make Illegal States Unrepresentable
 1. Microservices Are Best Used as a Technical Solution to a Social Problem
+1. Cultivate Mechanical Sympathy
 
 ## Performance
 
